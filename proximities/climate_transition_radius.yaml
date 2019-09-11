@@ -1,4 +1,4 @@
-zone: garage_radius
+zone: climate_transition_radius
 ignored_zones:
   - grace_work
   - teagan_work
