@@ -1,0 +1,8 @@
+ignored_zones:
+  - twork
+devices:
+  - device_tracker.2015_jeep_cherokee
+  - device_tracker.2019_jeep_compass
+  - device_tracker.2011_subaru_impreza_wagon
+tolerance: 50
+unit_of_measurement: mi
