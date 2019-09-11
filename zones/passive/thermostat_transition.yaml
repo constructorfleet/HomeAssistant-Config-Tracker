@@ -1,0 +1,6 @@
+name: Thermostat Transition
+latitude: !secret latitude_thermostat_transition
+longitude: !secret longitude_thermostat_transition
+radius: !secret radius_thermostat_transition
+icon: !secret icon_thermostat_transition
+passive: true
