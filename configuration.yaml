@@ -1,3 +1,9 @@
 homeassistant: !include core.yaml
 
+http:
+  server_port: !secret tracker_server_port
+
+frontend:
+
 device_tracker: !include_dir_list device_trackers
+zone: !include_dir_list
