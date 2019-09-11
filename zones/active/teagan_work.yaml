@@ -1,0 +1,6 @@
+name: Comcast
+latitude: !secret comcast_latitude
+longitude: !secret comcast_longitude
+radius: 100
+icon: mdi:television-play
+

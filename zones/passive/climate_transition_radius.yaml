@@ -1,0 +1,5 @@
+name: Climate Transition Radius
+latitude: !secret home_latitude
+longitude: !secret home_longitude
+radius: 500
+passive: true
