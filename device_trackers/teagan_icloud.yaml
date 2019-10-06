@@ -1,0 +1,3 @@
+platform: icloud
+username: !secret icloud_teagan_username
+password: !secret icloud_teagan_password
