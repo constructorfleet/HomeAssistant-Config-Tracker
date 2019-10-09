@@ -6,6 +6,8 @@ homeassistant:
   time_zone: !secret home_timezone
   name: Tracker
 
+http:
+
 frontend:
 
 device_tracker: !include_dir_list device_trackers
