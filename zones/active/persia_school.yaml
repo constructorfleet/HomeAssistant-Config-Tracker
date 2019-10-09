@@ -1,4 +1,4 @@
-name: "Persia's School"
+name: !secret persia_school_name
 latitude: !secret persia_school_latitude
 longitude: !secret persia_school_longitude
 radius: 150
