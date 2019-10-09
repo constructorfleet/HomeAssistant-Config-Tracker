@@ -1,5 +1,5 @@
 name: !secret teagan_parents_house_name
 latitude: !secret teagan_parents_house_latitude
-longitude: !secret teagan_parens_house_longitude
+longitude: !secret teagan_parents_house_longitude
 radius: 50
 icon: mdi:nature-people
