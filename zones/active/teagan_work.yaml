@@ -1,6 +1,6 @@
-name: Comcast
-latitude: !secret comcast_latitude
-longitude: !secret comcast_longitude
+name: !secret teagan_work_name
+latitude: !secret teagan_work_latitude
+longitude: !secret teagan_work_longitude
 radius: 100
 icon: mdi:television-play
 
