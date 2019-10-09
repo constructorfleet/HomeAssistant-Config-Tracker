@@ -1,6 +1,6 @@
-name: Ravenna
-latitude: !secret ravenna_latitude
-longitude: !secret ravenna_longitude
+name: !secret grace_work_name
+latitude: !secret grace_work_latitude
+longitude: !secret grace_work_longitude
 radius: 100
 icon: mdi:golf
 
