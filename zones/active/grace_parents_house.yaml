@@ -1,0 +1,5 @@
+name: !secret grace_parents_house_name
+latitude: !secret grace_parents_house_latitude
+longitude: !secret grace_parents_house_longitude
+radius: 50
+icon: mdi:account
