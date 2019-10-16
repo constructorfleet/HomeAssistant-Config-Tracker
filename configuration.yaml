@@ -16,6 +16,8 @@ http:
 
 frontend:
 
+config:
+
 view_event:
 
 device_tracker: !include_dir_list device_trackers
