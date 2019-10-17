@@ -15,12 +15,14 @@ homeassistant:
 
 http:
   base_url: http://10.0.11.174:8123
-  
+
 frontend:
 
 config:
 
 view_event:
+  components:
+    - automatic_accounts
 
 device_tracker: !include_dir_list device_trackers
 zone: !include_dir_list zones
