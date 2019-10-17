@@ -23,6 +23,7 @@ config:
 view_event:
   components:
     - automatic_accounts
+    - icloud
 
 device_tracker: !include_dir_list device_trackers
 zone: !include_dir_list zones
