@@ -23,7 +23,7 @@ frontend:
 config:
 
 view_event:
-  instance_name: tracker
+  name: tracker
   components:
     - automatic
     - icloud
