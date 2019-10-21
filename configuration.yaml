@@ -23,10 +23,12 @@ frontend:
 config:
 
 view_event:
+  name: tracker
   components:
-    - automatic_accounts
-    - icloud
     - automatic
+    - icloud
+    - device_tracker
+    - zone
 
 device_tracker: !include_dir_list device_trackers
 zone: !include_dir_list zones
