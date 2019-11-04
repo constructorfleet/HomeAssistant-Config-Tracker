@@ -1,6 +1,6 @@
 platform: waze_travel_time
 name: Teagan to Work
 origin:  person.teagan
-destination: !secert zone_teagan_work
+destination: !secret zone_teagan_work
 region: US
 realtime: True
