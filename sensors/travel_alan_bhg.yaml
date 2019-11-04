@@ -1,6 +1,6 @@
 platform: waze_travel_time
 name: Alan to BHG
 origin:  person.alan
-destination: !zone clinic
+destination: !secret zone_clinic
 region: US
 realtime: True
