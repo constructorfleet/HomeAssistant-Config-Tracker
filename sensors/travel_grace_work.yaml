@@ -1,0 +1,6 @@
+platform: waze_travel_time
+name: Grace to Work
+origin:  person.grace
+destination: !secret zone_grace_work
+region: US
+realtime: True
