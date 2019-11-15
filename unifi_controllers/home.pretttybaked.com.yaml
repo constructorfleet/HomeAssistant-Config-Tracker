@@ -1,0 +1,6 @@
+detection_time: 60
+dont_track_wired_clients: true
+ssid_filter:
+  - "Constructor Fleet"
+  - "The Galaxy"
+  - "Trump is a 💩"
