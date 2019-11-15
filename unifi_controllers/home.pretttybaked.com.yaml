@@ -1,3 +1,5 @@
+host: !secret unifi_host
+site: default
 detection_time: 60
 dont_track_wired_clients: true
 ssid_filter:
