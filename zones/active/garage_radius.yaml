@@ -3,5 +3,4 @@ latitude: !secret home_latitude
 longitude: !secret home_longitude
 radius: 280
 icon: mdi:garage
-passive: true
 
