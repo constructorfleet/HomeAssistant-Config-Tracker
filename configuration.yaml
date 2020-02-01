@@ -37,3 +37,6 @@ sensor: !include_dir_list sensors
 
 unifi:
   controllers: !include_dir_list unifi_controllers
+
+mqtt: !include mqtt.yaml
+mqtteventstream: !include eventstream.yaml
