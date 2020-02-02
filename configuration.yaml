@@ -15,7 +15,7 @@ homeassistant:
     - type: homeassistant
 
 http:
-  base_url: http://trackers.constructorfleet.iot:3000
+  base_url: http://trackers.constructorfleet.iot
 #  server_port: !secret tracker_server_public_port
 
 frontend:
