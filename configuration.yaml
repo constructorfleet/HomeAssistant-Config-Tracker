@@ -15,8 +15,8 @@ homeassistant:
     - type: homeassistant
 
 http:
-  base_url: https://automation.prettybaked.com
-  server_port: !secret tracker_server_public_port
+#  base_url: https://automation.prettybaked.com
+#  server_port: !secret tracker_server_public_port
 
 frontend:
 
@@ -39,5 +39,5 @@ unifi:
   controllers: !include_dir_list unifi_controllers
 
 mqtt: !include mqtt.yaml
-# mqtteventstream: !include eventstream.yaml
-mqtt_remoteinstance: !include mqtt_remoteinstance.yaml
+mqtteventstream: !include eventstream.yaml
+#mqtt_remoteinstance: !include mqtt_remoteinstance.yaml
