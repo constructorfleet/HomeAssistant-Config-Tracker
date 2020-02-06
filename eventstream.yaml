@@ -1,3 +1,4 @@
+name: trackers
 publish_topic: events/slaves/trackers
 subscribe_topic: events/master
 ignore_event:
