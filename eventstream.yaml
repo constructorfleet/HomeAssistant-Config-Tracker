@@ -1,6 +1,5 @@
 publish_topic: events/slaves/trackers
-state_publish_topic: states/trackers
-state_publish_topic: true
+state_publish_topic: states/slaves/trackers
 subscribe_topic: events/master
 subscribe_rules_topic: events/rules
 ignore_event:
