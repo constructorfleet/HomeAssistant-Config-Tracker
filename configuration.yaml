@@ -33,6 +33,7 @@ device_tracker: !include_dir_list device_trackers
 zone: !include_dir_list zones
 proximity: !include_dir_named proximities
 sensor: !include_dir_list sensors
+person:
 
 unifi:
   controllers: !include_dir_list unifi_controllers
