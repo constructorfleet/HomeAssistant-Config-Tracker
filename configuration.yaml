@@ -21,13 +21,7 @@ frontend:
 
 config:
 
-# view_event:
-#   name: tracker
-#   components:
-#     - automatic
-#     - icloud
-#     - device_tracker
-#     - zone
+view_event: !include view_event.yaml
 
 device_tracker: !include_dir_list device_trackers
 zone: !include_dir_list zones
@@ -40,4 +34,3 @@ unifi:
 
 mqtt: !include mqtt.yaml
 mqtteventstream: !include eventstream.yaml
-#mqtt_remoteinstance: !include mqtt_remoteinstance.yaml
