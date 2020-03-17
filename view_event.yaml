@@ -1,7 +1,4 @@
 components:
   - automatic
   - icloud
-  - device_tracker
-  - zone
-  - person
   - webhook
