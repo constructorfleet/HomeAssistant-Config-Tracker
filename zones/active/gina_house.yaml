@@ -1,0 +1,6 @@
+name: Gina House
+latitude: !secret gina_house_latitude
+longitude: !secret gina_house_longitude
+radius: 50
+icon: mdi:account-star
+
