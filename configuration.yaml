@@ -4,7 +4,7 @@ homeassistant:
   elevation: !secret home_elevation
   unit_system: imperial
   time_zone: !secret home_timezone
-  name: Tracker
+  name: Trackers
   auth_providers:
     - type: trusted_networks
       trusted_networks:
