@@ -1,6 +1,0 @@
-platform: waze_travel_time
-name: Teagan to Work
-origin: device_tracker.agrajag_3
-destination: !secret zone_teagan_work
-region: US
-realtime: True
