@@ -1,6 +1,3 @@
-[submodule "custom_components/automatic_accounts"]
-	path = custom_components/automatic_accounts
-	url = https://github.com/constructorfleet/HomeAssistant-Component-MultiAutomatic.git
 [submodule "custom_components/view_event"]
 	path = custom_components/view_event
 	url = https://github.com/constructorfleet/HomeAssistant-Component-ViewEvent.git
