@@ -23,12 +23,8 @@ config:
 
 view_event: !include view_event.yaml
 
-device_tracker: !include_dir_list device_trackers
 zone: !include_dir_list zones
 person:
-
-unifi:
-  controllers: !include_dir_list unifi_controllers
 
 mqtt: !include mqtt.yaml
 mqtteventstream: !include eventstream.yaml
